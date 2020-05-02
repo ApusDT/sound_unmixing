@@ -16,5 +16,5 @@ An interactive computation has been created in a lab. Graphs bring us the abilit
 
 # Command Line
 In order to separate input data, the following command can be used : `python unmix.py P input1.wav input2.wav ...`
-with P an integer that is the number of people speaking simultaneously.
+with P an integer that is the number of people speaking simultaneously, the number of components.
 The script outputs P files.
