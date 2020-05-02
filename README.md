@@ -15,6 +15,6 @@ As a result of that, it is possible to approximate matrix `W` from the relation 
 An interactive computation has been created in a lab. Graphs bring us the ability to better visualize the extracted voices.
 
 # Command Line
-In order to separate input data, the following command can be used : `python unmix.py P input1.wav input2.wav ...`
+In order to separate input data, the following command can be used : `python unmix.py P output_folder input1.wav input2.wav ...`
 with P an integer that is the number of people speaking simultaneously, the number of components.
 The script outputs P files.
